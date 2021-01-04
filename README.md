@@ -1,6 +1,7 @@
 # Openbox
 
-A backup for my Openbox desktop configuration. Includes all needed themes and configs, a build of dmenu, the log-in manager config and some scripts. This is a modification of [dbuxy218's Prismatic Night Openbox theme](https://github.com/dbuxy218/Prismatic-Night) 
+A backup for my Openbox desktop configuration. Includes all needed themes and configs, a build of dmenu, the log-in manager config and some scripts. 
+This is a modification of [dbuxy218's Prismatic Night Openbox theme](https://github.com/dbuxy218/Prismatic-Night) 
 ![A screenshot of my desktop](/screenshots/desktop.png?raw=true)
 
 # Themes
