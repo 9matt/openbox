@@ -10,10 +10,15 @@ This is a modification of [dbuxy218's Prismatic Night Openbox theme](https://git
 + [GTK Theme - Adapta Nokto](https://cinnamon-spices.linuxmint.com/themes/view/Adapta-Nokto)
 + [Icon Theme - Breeze-Noir-White-Blue](https://store.kde.org/p/1361468)
 
+# Stow - dotfiles
+
+The dotfiles folder is set up to work with GNU Stow. All dotfiles can be automatically symlinked by launching 'stow -t ~ *'
+
 # Packages 
 
-Here's a list of all packages I usually install. The names might be different on different distributions, I am using Void linux.
-openbox obconf picom tint2 lxsession lxappearance menumaker lightdm lightdm-gtk3-greeter xfce4-terminal st nitrogen firefox pcmanfm gedit gsimplecal-gtk3 fonts-roboto-ttf volumeicon ufetch htop 
+I've added package lists with all the required packages I usually install.
+Void Linux - xbps.txt
+Arch - pacman.txt
 
 # Top panel - tint2
 
